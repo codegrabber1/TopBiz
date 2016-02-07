@@ -1,0 +1,48 @@
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+
+body section {
+  width: 100%;
+}
+
+.wrraper {
+  width: 100%;
+}
+
+.wrraper .main {
+  border: 1px solid red;
+}
+
+.wrraper .main header {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.wrraper .main header .top_adver {
+  width: 100%;
+  min-height: 70px;
+  background-color: #e9e9ea;
+}
+
+.wrraper .main header .top {
+  background-color: #515354;
+  min-height: 40px;
+  color: #bebebf;
+}
+
+.wrraper .main header .topinfo {
+  background-color: #fff;
+}
+
+.wrraper .main header .topnav {
+  background-color: #0f6baa;
+  min-height: 66px;
+}
